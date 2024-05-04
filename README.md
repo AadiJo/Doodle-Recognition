@@ -2,6 +2,8 @@
 
 This project implements doodle recognition using a MobileNet model trained on the Google QuickDraw dataset. It allows users to capture images from the webcam using OpenCV and perform doodle recognition on the captured images.
 
+Data found [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)
+
 ## Features
 
 - Train a MobileNet model for doodle recognition using the QuickDraw dataset.
