@@ -7,8 +7,7 @@ Data found [here](https://console.cloud.google.com/storage/browser/quickdraw_dat
 ## Features
 
 - Train a MobileNet model for doodle recognition using the QuickDraw dataset.
-- Use the webcam to capture images for doodle recognition.
-- Perform real-time doodle recognition on captured images.
+- Recognize human-drawn doodles from `.png` and `.jpg` images
 
 ## Dependencies
 
