@@ -33,8 +33,7 @@ Data found [here](https://console.cloud.google.com/storage/browser/quickdraw_dat
 `python gui.py`
 
 5. Import image:
-Click the icon in the top left to select an image file
-Format is 32 x 32, white drawing on black background
+Click the icon in the top left to select an image. File format is 32 x 32, white drawing on black background
 
 6. Detect image:
 Click the detect button!
