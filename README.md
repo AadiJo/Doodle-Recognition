@@ -4,6 +4,8 @@ This project implements doodle recognition using a MobileNet model trained on th
 
 Data found [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)
 
+## [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vREyLunXvMVH6btGoeDcjNs8oSg_86lA-3iERS7hUfg6PyyWuqa--s50oJV8PEYvjTOAsjvxJD6dRW5/pub?start=false&loop=false&delayms=5000)
+
 ## Features
 
 - Train a MobileNet model for doodle recognition using the QuickDraw dataset.
